@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: API
 metadata:
-  name: artist-web
-  description: The place to be, for great artists
+  name: openapi
+  description: idk
   labels:
     example.com/custom: custom_label_value
   annotations:
@@ -16,7 +16,9 @@ metadata:
       icon: dashboard
       type: admin-dashboard
 spec:
-  type: website
+  type: apoenapi
   lifecycle: production
-  owner: artist-relations-team
+  owner: ria@gmail.com
   system: public-websites
+  definition: 
+    $text: https://github.com/Ria622/catalogue/blob/petstore-api/openapi.yaml
