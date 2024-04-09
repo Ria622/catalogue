@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: openapi
+  name: openapi1
   description: idk
   labels:
     example.com/custom: custom_label_value
