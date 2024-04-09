@@ -21,4 +21,4 @@ spec:
   owner: ria@gmail.com
   system: public-websites
   definition: 
-    $text: https://github.com/Ria622/catalogue/blob/petstore-api/openapi.yaml
+    $text: https://github.com/Ria622/catalogue/blob/petstore-api/yaml/openapi.yaml
