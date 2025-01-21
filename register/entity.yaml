@@ -6,8 +6,8 @@ metadata:
     description: PetStore API from swagger editor  
     tags: 
     - ria1
-    spec: 
-        type: openapi
-        lifecycle: production
-        definition:
-            $text: ./petstore-openapi.yaml 
+spec: 
+    type: openapi
+    lifecycle: production
+    definition:
+        $text: ./petstore-openapi.yaml 
